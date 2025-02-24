@@ -1,9 +1,9 @@
 ### Hey there ✨
-My name is Yuxi, and I'm a 3rd year Computer Engineering student at McMaster University.
-- 💼 I've worked as an Automation Engineer at [Volante Systems](https://www.volantesystems.com)
-- 💻 As current Co-Chair of [Hack the 6ix 2024](https://www.hackthe6ix.com) (HT6), I'm organizing a team of 35 organizers to deliver the 10th anniversary of Canada's largest summer hackathon - stay tuned!
-- 🚙 I'm a DAQ member on [McMaster Baja Racing](https://www.mcmasterbaja.ca), where we work on sensor integration, signal processing, and data acquisition! I also take/design cool pictures and graphics 📷
-- 🚦 In my spare time, I fill my time with hardware/software projects with a focus on IoT and embedded systems.
+My name is Yuxi, and I'm a 4th year Computer Engineering student at McMaster University (expected to graduate Apr 2027).
+- 🚙 As Data Acquisition lead on [McMaster Baja Racing](https://www.mcmasterbaja.ca), I lead a team of 23 students to integrate sensors, analyze data, and develop testing solutions for a custom off-road vehicle. (This is what I spend all my time working on!)
+- 🚗 My time as a Test Engineer at [General Dynamics Land Systems-Canada](https://app.gdls.com/) helped me apply hands-on 
+- 💼 I've worked as an Automation Engineer at [Volante Systems](https://www.volantesystems.com).
+- 💻 As a Board Member for [Hack the 6ix](https://www.hackthe6ix.com) (HT6), I support the organizing team for Toronto's biggest summer hackathon.
 
 Want to learn some more?
 - Website: [yuxiqin.ca](https://yuxiqin.ca)
